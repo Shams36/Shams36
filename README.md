@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about **DevOps** and am currently w
 - 🌱 I’m currently learning: **Kubernetes, Terraform, Docker, and Jenkins**
 - 💬 Ask me about: **Python, Kubernetes, Computer Vision, Docker, and automation**
 - 📫 How to reach me: [iftakharshams36@gmail.com](mailto:iftakharshams36@gmail.com)
-- ⚡ Interesting fact: I am a profesional gamer, named Flexis.
+- ⚡ Interesting fact: I am a professional gamer, named Flexis.
 
 ## 🔗 Connect with Me
 
