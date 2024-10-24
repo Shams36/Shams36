@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about **DevOps** and am currently w
 
 # 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/iftakhar-shams/)
 [![Twitter](https://img.shields.io/badge/Twitter-@yourprofile-blue)](https://twitter.com/yourprofile)
 
 # 🌐 GitHub Stats
