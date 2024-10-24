@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about **DevOps** and am currently w
 ### AI & ML
 
 ![Computer Vision](https://img.shields.io/badge/Computer-Vision-black?style=for-the-badge&logo=ComputerVision&logoColor=white)
-![Pytorch](https://img.shields.io/badge/Pytoch-%2320232a.svg?style=for-the-badge&logo=Pytorch&logoColor=%2361DAFB)
+![Pytorch](https://img.shields.io/badge/Pytorch-%2320232a.svg?style=for-the-badge&logo=Pytorch&logoColor=%2361DAFB)
 ![Yolo Model](https://img.shields.io/badge/Yolo%20Model-CC2927?style=for-the-badge&logo=Yolo%20Model&logoColor=white)
 
 ### Cloud and Architecture
