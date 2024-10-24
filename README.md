@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about **DevOps** and am currently w
 
 # 🌐 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iftakharshams&show_icons=true&theme=radical)
 
 # 📚 Projects
 
@@ -37,5 +37,5 @@ Welcome to my GitHub profile! I'm passionate about **DevOps** and am currently w
 
 # 📈 Contribution Stats
 
-![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iftakharshams&layout=compact)
+![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=iftakharshams&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iftakharshams&layout=compact&theme=radical)
