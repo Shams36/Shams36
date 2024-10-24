@@ -13,14 +13,17 @@ Welcome to my GitHub profile! I'm passionate about **DevOps** and am currently w
 
 ## 🛠️ Tech Stack
 
+### AI & ML
+
+![Computer Vision](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=Computer Vision&logoColor=white)
+
 - **Languages**: Python, JavaScript, Java
 - **DevOps Tools**: Docker, Kubernetes, Jenkins, Git
 - **Cloud Platforms**: AWS, Azure, Google Cloud
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/iftakhar-shams/)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourprofile-blue)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iftakhar-shams/)
 
 ## 🌐 GitHub Stats
 
