@@ -61,10 +61,6 @@ Welcome to my GitHub profile! I'm passionate about **DevOps** and am currently w
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🌐 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iftakharshams&show_icons=true&theme=radical)
-
 ## 📚 Projects
 
 - **[Project 1](https://github.com/yourusername/project1)**: Brief description of Project 1.
