@@ -38,3 +38,4 @@ Welcome to my GitHub profile! I'm passionate about **DevOps** and am currently w
 # 📈 Contribution Stats
 
 ![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iftakharshams&layout=compact)
