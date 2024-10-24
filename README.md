@@ -61,11 +61,11 @@ Welcome to my GitHub profile! I'm passionate about **DevOps** and am currently w
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📚 Projects
+## 📚 Ongoing Projects
 
-- **[Project 1](https://github.com/yourusername/project1)**: Brief description of Project 1.
-- **[Project 2](https://github.com/yourusername/project2)**: Brief description of Project 2.
-- **[Project 3](https://github.com/yourusername/project3)**: Brief description of Project 3.
+- **Computer Vision**: Working on a dataset by applying a newest Algorithm.
+- **AWS Mastery**: Trying out every AWS programs.
+- **Personal Website**: Developing my own personal website.
 
 ## 📝 Blog Posts
 
