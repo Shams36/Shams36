@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about **DevOps** and am currently w
 
 ### AI & ML
 
-![Computer Vision](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=ComputerVision&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/ComputerVision-black?style=for-the-badge&logo=ComputerVision&logoColor=white)
 
 - **Languages**: Python, JavaScript, Java
 - **DevOps Tools**: Docker, Kubernetes, Jenkins, Git
