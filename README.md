@@ -10,6 +10,11 @@ Welcome to my GitHub profile! I'm passionate about **DevOps** and am currently w
 - 🌱 I’m currently learning: **Kubernetes, Terraform, Docker, and Jenkins**
 - 💬 Ask me about: **Python, Kubernetes, Computer Vision, Docker, and automation**
 - 📫 How to reach me: [iftakharshams36@gmail.com](mailto:iftakharshams36@gmail.com)
+- ⚡ Interesting fact: I am a profesional gamer, named Flexis.
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iftakhar-shams/)
 
 ## 🛠️ Tech Stack
 
@@ -55,10 +60,6 @@ Welcome to my GitHub profile! I'm passionate about **DevOps** and am currently w
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iftakhar-shams/)
 
 ## 🌐 GitHub Stats
 
