@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about **DevOps** and am currently w
 - 🔭 I’m currently working on: **Aspiring Cloud Engineer**
 - 🌱 I’m currently learning: **Kubernetes, Terraform, Docker, and Jenkins**
 - 💬 Ask me about: **Python, Kubernetes, Computer Vision, Docker, and automation**
-- 📫 How to reach me: [iftakharshams36@gmail.com](mailto:iftakharshams36@gmail.com)
+- 📫 How to reach me: [iftakharrasul.shams@student.adelaide.edu.au](mailto:iftakharrasul.shams@student.adelaide.edu.au)
 - ⚡ Interesting fact: I am a professional gamer, named Flexis.
 
 ## 🔗 Connect with Me
