@@ -49,6 +49,7 @@ Welcome to my GitHub profile! I'm passionate about **DevOps** and am currently w
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C++]([https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white](https://img.shields.io/badge/-C++-blue?logo=cplusplus))
 
 ### Tools and Platforms
 
