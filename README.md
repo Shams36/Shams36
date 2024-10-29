@@ -86,7 +86,7 @@ Welcome to my GitHub profile! I'm passionate about **DevOps** and am currently w
 ## 📈 Contribution Stats
 
 ![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=iftakharshams&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iftakharshams&layout=compact)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iftakharshams&theme=radical)](https://github.com/iftakharshams/github-readme-stats)
 -->
 
